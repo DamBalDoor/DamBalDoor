@@ -8,6 +8,6 @@ const DamBalDoor = {
     programmingLanguages: [Javascript, HTML, CSS],
     skills: [Node.js, Bootstrap],
     dataBase: [MySQL, PostgreSQL, ClickHouse],
-    versionControl: [Git, GitHab, GitLab],
+    versionControl: [Git, GitHab, GitLab]
 };
 ```
