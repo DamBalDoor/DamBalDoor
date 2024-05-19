@@ -6,7 +6,7 @@
 const DamBalDoor = {
     pronouns: "he" | "him",
     programmingLanguages: [Javascript, HTML, CSS],
-    skills: [Node.js, Bootstrap]
+    skills: [Node.js, Bootstrap],
     dataBase: [MySQL, PostgreSQL, ClickHouse],
     versionControl: [Git, GitHab, GitLab],
 };
