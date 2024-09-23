@@ -5,8 +5,10 @@
 ```javascript
 const DamBalDoor = {
     pronouns: "he" | "him",
-    programmingLanguages: [Javascript, HTML, CSS],
+    programmingLanguages: [SQL, JavaScript, HTML, CSS],
     skills: [Node.js, Bootstrap],
+    programmingPatterns: [Clean Architecture, MVC],
+    programmingMethodologies: [SOLID, ООП],
     dataBase: [MySQL, PostgreSQL, ClickHouse],
     versionControl: [Git, GitHab, GitLab]
 };
