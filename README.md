@@ -4,7 +4,6 @@
 
 ```javascript
 const DamBalDoor = {
-    pronouns: "he" | "him",
     programmingLanguages: [SQL, JavaScript, HTML, CSS],
     skills: [Node.js, Bootstrap],
     programmingPatterns: [Clean Architecture, MVC],
