@@ -9,6 +9,6 @@ const DamBalDoor = {
     programmingPatterns: [Clean Architecture, MVC],
     programmingMethodologies: [SOLID, ООП],
     dataBase: [MySQL, PostgreSQL, ClickHouse],
-    versionControl: [Git, GitHab, GitLab]
+    versionControl: [Git, GitHub, GitLab]
 };
 ```
